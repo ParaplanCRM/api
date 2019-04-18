@@ -1,0 +1,334 @@
+{
+  "students": [
+    {
+      "name": "Римма Елисеева",
+      "status": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25"
+    },
+    {
+      "name": "Ярослав Красильников",
+      "status": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25"
+    },
+    {
+      "name": "Ярослав Новиков",
+      "status": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25"
+    },
+    {
+      "name": "Вероника Никонова",
+      "status": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25"
+    },
+    {
+      "name": "Валентина Новикова",
+      "status": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25"
+    },
+    {
+      "name": "Анатолий Шестаков",
+      "status": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25"
+    },
+    {
+      "name": "Герман Сергеев",
+      "status": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25"
+    },
+    {
+      "name": "Антонина Киселева",
+      "status": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25"
+    },
+    {
+      "name": "Виктория Сидорова",
+      "status": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25"
+    },
+    {
+      "name": "Виктория Белоусова",
+      "status": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25"
+    },
+    {
+      "name": "Екатерина Зайцева",
+      "status": "9d305db5-ac98-44c2-b89a-dfb27fc838c1"
+    },
+    {
+      "name": "Валентин Ермаков",
+      "status": "9d305db5-ac98-44c2-b89a-dfb27fc838c1"
+    },
+    {
+      "name": "Альберт Субботин",
+      "status": "9d305db5-ac98-44c2-b89a-dfb27fc838c1"
+    },
+    {
+      "name": "Нина Носова",
+      "status": "9d305db5-ac98-44c2-b89a-dfb27fc838c1"
+    },
+    {
+      "name": "Валерий Пахомов",
+      "status": "9d305db5-ac98-44c2-b89a-dfb27fc838c1"
+    },
+    {
+      "name": "Артём Панов",
+      "status": "9d305db5-ac98-44c2-b89a-dfb27fc838c1"
+    },
+    {
+      "name": "Татьяна Копылова",
+      "status": "9d305db5-ac98-44c2-b89a-dfb27fc838c1"
+    },
+    {
+      "name": "Варвара Савельева",
+      "status": "9d305db5-ac98-44c2-b89a-dfb27fc838c1"
+    },
+    {
+      "name": "Арина Ширяева",
+      "status": "9d305db5-ac98-44c2-b89a-dfb27fc838c1"
+    },
+    {
+      "name": "Валерия Калашникова",
+      "status": "9d305db5-ac98-44c2-b89a-dfb27fc838c1"
+    },
+    {
+      "name": "Лаврентий Селезнев",
+      "status": "9d6a37d9-de35-4e57-8f4f-69dd506023ab"
+    },
+    {
+      "name": "Любовь Яковлева",
+      "status": "9d6a37d9-de35-4e57-8f4f-69dd506023ab"
+    },
+    {
+      "name": "Александра Давыдова",
+      "status": "9d6a37d9-de35-4e57-8f4f-69dd506023ab"
+    },
+    {
+      "name": "Георгий Кондратьев",
+      "status": "9d6a37d9-de35-4e57-8f4f-69dd506023ab"
+    },
+    {
+      "name": "София Жукова",
+      "status": "9d6a37d9-de35-4e57-8f4f-69dd506023ab"
+    },
+    {
+      "name": "Любовь Меркушева",
+      "status": "9d6a37d9-de35-4e57-8f4f-69dd506023ab"
+    },
+    {
+      "name": "Алексей Блохин",
+      "status": "9d6a37d9-de35-4e57-8f4f-69dd506023ab"
+    },
+    {
+      "name": "Василиса Казакова",
+      "status": "9d6a37d9-de35-4e57-8f4f-69dd506023ab"
+    },
+    {
+      "name": "Анастасия Колесникова",
+      "status": "9d6a37d9-de35-4e57-8f4f-69dd506023ab"
+    },
+    {
+      "name": "Надежда Колесникова",
+      "status": "9d6a37d9-de35-4e57-8f4f-69dd506023ab"
+    },
+    {
+      "name": "Дарья Сазонова",
+      "status": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f"
+    },
+    {
+      "name": "Вячеслав Трофимов",
+      "status": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f"
+    },
+    {
+      "name": "Александр Савин",
+      "status": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f"
+    },
+    {
+      "name": "Людмила Якушева",
+      "status": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f"
+    },
+    {
+      "name": "Анастасия Мамонтова",
+      "status": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f"
+    },
+    {
+      "name": "Раиса Гришина",
+      "status": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f"
+    },
+    {
+      "name": "Матвей Терентьев",
+      "status": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f"
+    },
+    {
+      "name": "Арсений Романов",
+      "status": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f"
+    },
+    {
+      "name": "Валерия Воробьева",
+      "status": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f"
+    },
+    {
+      "name": "Анастасия Миронова",
+      "status": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f"
+    },
+    {
+      "name": "Зоя Гордеева",
+      "status": "38d4f887-add9-416a-8590-8352c6e28e13"
+    },
+    {
+      "name": "Лидия Селиверстова",
+      "status": "38d4f887-add9-416a-8590-8352c6e28e13"
+    },
+    {
+      "name": "Герман Евдокимов",
+      "status": "38d4f887-add9-416a-8590-8352c6e28e13"
+    },
+    {
+      "name": "Леонид Иванов",
+      "status": "38d4f887-add9-416a-8590-8352c6e28e13"
+    },
+    {
+      "name": "Антон Кудряшов",
+      "status": "38d4f887-add9-416a-8590-8352c6e28e13"
+    },
+    {
+      "name": "Алёна Цветкова",
+      "status": "38d4f887-add9-416a-8590-8352c6e28e13"
+    },
+    {
+      "name": "Вячеслав Агафонов",
+      "status": "38d4f887-add9-416a-8590-8352c6e28e13"
+    },
+    {
+      "name": "Людмила Полякова",
+      "status": "38d4f887-add9-416a-8590-8352c6e28e13"
+    },
+    {
+      "name": "Антонида Лебедева",
+      "status": "38d4f887-add9-416a-8590-8352c6e28e13"
+    },
+    {
+      "name": "Олег Кондратьев",
+      "status": "38d4f887-add9-416a-8590-8352c6e28e13"
+    },
+    {
+      "name": "Борис Тимофеев",
+      "status": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c"
+    },
+    {
+      "name": "Антонина Сафонова",
+      "status": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c"
+    },
+    {
+      "name": "Зинаида Ермакова",
+      "status": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c"
+    },
+    {
+      "name": "Анатолий Сазонов",
+      "status": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c"
+    },
+    {
+      "name": "Арина Колесникова",
+      "status": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c"
+    },
+    {
+      "name": "Ксения Сысоева",
+      "status": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c"
+    },
+    {
+      "name": "Валерия Третьякова",
+      "status": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c"
+    },
+    {
+      "name": "Маргарита Комиссарова",
+      "status": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c"
+    },
+    {
+      "name": "Лаврентий Муравьев",
+      "status": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c"
+    },
+    {
+      "name": "Вадим Миронов",
+      "status": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c"
+    },
+    {
+      "name": "Алёна Молчанова",
+      "status": "88d99a2b-f5ba-41cd-9827-0da4959b5369"
+    },
+    {
+      "name": "Валерий Виноградов",
+      "status": "88d99a2b-f5ba-41cd-9827-0da4959b5369"
+    },
+    {
+      "name": "Артём Павлов",
+      "status": "88d99a2b-f5ba-41cd-9827-0da4959b5369"
+    },
+    {
+      "name": "Зоя Фомина",
+      "status": "88d99a2b-f5ba-41cd-9827-0da4959b5369"
+    },
+    {
+      "name": "Ирина Белозерова",
+      "status": "88d99a2b-f5ba-41cd-9827-0da4959b5369"
+    },
+    {
+      "name": "Ярослав Александров",
+      "status": "88d99a2b-f5ba-41cd-9827-0da4959b5369"
+    },
+    {
+      "name": "Илья Гуляев",
+      "status": "88d99a2b-f5ba-41cd-9827-0da4959b5369"
+    },
+    {
+      "name": "Макар Хохлов",
+      "status": "88d99a2b-f5ba-41cd-9827-0da4959b5369"
+    },
+    {
+      "name": "Артём Никитин",
+      "status": "88d99a2b-f5ba-41cd-9827-0da4959b5369"
+    },
+    {
+      "name": "Артём Журавлев",
+      "status": "88d99a2b-f5ba-41cd-9827-0da4959b5369"
+    },
+    {
+      "name": "Юрий Журавлев",
+      "status": "e62ee8b4-8f10-4dfa-937a-4211da24f5af"
+    },
+    {
+      "name": "Артём Федосеев",
+      "status": "e62ee8b4-8f10-4dfa-937a-4211da24f5af"
+    },
+    {
+      "name": "София Беляева",
+      "status": "e62ee8b4-8f10-4dfa-937a-4211da24f5af"
+    },
+    {
+      "name": "Егор Киселев",
+      "status": "e62ee8b4-8f10-4dfa-937a-4211da24f5af"
+    },
+    {
+      "name": "Василиса Сергеева",
+      "status": "e62ee8b4-8f10-4dfa-937a-4211da24f5af"
+    },
+    {
+      "name": "Максим Зуев",
+      "status": "e62ee8b4-8f10-4dfa-937a-4211da24f5af"
+    },
+    {
+      "name": "Антонина Цветкова",
+      "status": "e62ee8b4-8f10-4dfa-937a-4211da24f5af"
+    },
+    {
+      "name": "Ирина Тарасова",
+      "status": "e62ee8b4-8f10-4dfa-937a-4211da24f5af"
+    },
+    {
+      "name": "Ульяна Ширяева",
+      "status": "e62ee8b4-8f10-4dfa-937a-4211da24f5af"
+    },
+    {
+      "name": "Юрий Цветков",
+      "status": "e62ee8b4-8f10-4dfa-937a-4211da24f5af"
+    }
+  ],
+  "statuses": [
+    { "id": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25", "name": "Записался на пробное", "order": 20, "active": true },
+    { "id": "9d305db5-ac98-44c2-b89a-dfb27fc838c1", "name": "Обратился", "order": 10, "active": true },
+    { "id": "9d6a37d9-de35-4e57-8f4f-69dd506023ab", "name": "Активный", "order": 40, "active": true },
+    { "id": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f", "name": "Посетил пробное", "order": 30, "active": true },
+    { "id": "38d4f887-add9-416a-8590-8352c6e28e13", "name": "В архиве", "order": 20, "active": false },
+    { "id": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c", "name": "Нереализованная сделка", "order": 10, "active": false },
+    { "id": "88d99a2b-f5ba-41cd-9827-0da4959b5369", "name": "Позвонить осенью", "order": 10, "active": false },
+    { "id": "e62ee8b4-8f10-4dfa-937a-4211da24f5af", "name": "Отказался от звонков", "order": 40, "active": false }
+  ]
+}
