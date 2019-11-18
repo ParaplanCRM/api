@@ -106,5 +106,15 @@
     { "id": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c", "name": "Нереализованная сделка", "order": 10, "active": false },
     { "id": "88d99a2b-f5ba-41cd-9827-0da4959b5369", "name": "Позвонить осенью", "order": 10, "active": false },
     { "id": "e62ee8b4-8f10-4dfa-937a-4211da24f5af", "name": "Отказался от звонков", "order": 40, "active": false }
-  ]
+  ],
+  "breakdown": {
+   "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25": 10,
+   "9d305db5-ac98-44c2-b89a-dfb27fc838c1": 12,
+   "9d6a37d9-de35-4e57-8f4f-69dd506023ab": 39,
+   "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f": 7,
+   "38d4f887-add9-416a-8590-8352c6e28e13": 93,
+   "b9792e48-ebf2-4859-8bcb-bdee6a82f26c": 390,
+   "88d99a2b-f5ba-41cd-9827-0da4959b5369": 14,
+   "e62ee8b4-8f10-4dfa-937a-4211da24f5af": 8
+  }
 }
